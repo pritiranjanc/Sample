@@ -9,3 +9,5 @@ for l1 in range(0, 5, 2):
 print("Range function with 2 Param")
 for l2 in range(0, 5):
     print(l2)
+	
+print("End of python Program")
